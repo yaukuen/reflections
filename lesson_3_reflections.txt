@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than  keeping all your work local?
+When I want to work with other people or switching to other computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It's because sometimes it may have broken code on the GitHub that we don't want to pull it before it's fixed.
